@@ -2,7 +2,7 @@
 
 This code implements the Shell sort algorithm for sorting a linked list of integers.
 
-## COMPONENTS
+## CODE EXPLAINATION
 
 - Structures and Global Definitions:
 
