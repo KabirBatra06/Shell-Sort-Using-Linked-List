@@ -1,8 +1,8 @@
-## GOAL
+## Overview
 
 This code implements the Shell sort algorithm for sorting a linked list of integers.
 
-## CODE EXPLANATION
+## Explaination 
 
 - Structures and Global Definitions:
 
